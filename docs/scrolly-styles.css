@@ -113,9 +113,6 @@ video {
     }
 }
 
-#scrolly-ai2html .step {
-    margin-bottom: 70vh; /* Adjust this value as needed */
-}
 
 #scrolly-ai2html .step {
     color: black;
@@ -133,3 +130,4 @@ video {
     padding: 1.2em !important;
     background-color: #e9b9c5cc;
 }
+
